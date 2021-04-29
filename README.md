@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Jared, 
+But i am known to the internet as ***Active Coder***. I operate under my game studio ***TracedGames*** in which I'm a solo developer.
+I am using ***Vylocity*** a 2D game engine to create the game(s) of my dream(s).
+I hope everyone enjoys what I've created as much as I've enjoyed creating it.
+
+https://www.vylocity.com/user/Activist
 
 <!--
 **Actii-codes/Actii-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
