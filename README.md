@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Jared, 
-But i am known to the internet as ***Active***. I operate under my game studio ***TracedGames*** in which I'm a solo developer.
+### Hi there 👋 I'm Jared,
+But I am known to the internet as ***Active***. I operate under my game studio ***TracedGames*** in which I'm a solo developer.
 I hope everyone enjoys what I've created as much as I've enjoyed creating it.
 
 <!--
