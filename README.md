@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Jared,
 I'm a solo game developer that goes by the name **Active || Activist**⚡.
 I enjoy creating games and creating libraries/modules that will help others create games.
-I develop in the 2D Game engine [Vylocity]https://www.vylocity.com/
+I develop in the 2D Game engine [Vylocity](https://www.vylocity.com/)
 
 I'm also a composer and pixel artist in training.
 
@@ -12,9 +12,9 @@ You can check out some of the things I've:
 
 I love coding, and creating new things that bring joy.
 
-[twitter](https://twitter.com/TracedGames)
-[twitch](https://www.twitch.tv/activecoder)
-[youtube](https://www.youtube.com/channel/UCyeqbkFUYW3inq_lLdmlYjQ)
+[twitter](https://twitter.com/TracedGames)  
+[twitch](https://www.twitch.tv/activecoder)  
+[youtube](https://www.youtube.com/channel/UCyeqbkFUYW3inq_lLdmlYjQ)  
 
 <!--
 **Actii-codes/Actii-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
