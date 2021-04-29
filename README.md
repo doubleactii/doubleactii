@@ -5,16 +5,16 @@ I develop in the 2D Game engine [Vylocity]https://www.vylocity.com/
 
 I'm also a composer and pixel artist in training.
 
-You can check out some of the things I've:
-🎵 composed [here]https://soundcloud.com/activegamemusic
-🎨 drawn [coming soon 😎]
-💻 developed [here]https://www.vylocity.com/user/Activist/creations
+You can check out some of the things I've:  
+🎵 composed [here](https://soundcloud.com/activegamemusic)  
+~~🎨 drawn [coming soon 😎]()~~  
+💻 developed [here](https://www.vylocity.com/user/Activist/creations)
 
 I love coding, and creating new things that bring joy.
 
-[twitter]https://twitter.com/TracedGames
-[twitch]https://www.twitch.tv/activecoder
-[youtube]https://www.youtube.com/channel/UCyeqbkFUYW3inq_lLdmlYjQ
+[twitter](https://twitter.com/TracedGames)
+[twitch](https://www.twitch.tv/activecoder)
+[youtube](https://www.youtube.com/channel/UCyeqbkFUYW3inq_lLdmlYjQ)
 
 <!--
 **Actii-codes/Actii-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
