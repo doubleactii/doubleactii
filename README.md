@@ -4,7 +4,7 @@ I'm a solo game developer that goes by the name **Active || Activist**⚡.
 I enjoy creating games and creating libraries/modules that will help others create games.  
 I develop in the 2D Game engine [Vylocity](https://www.vylocity.com/).  
 
-I'm learning to compose music, and create pixel art in my spare time😀.  
+As well as being a programmer I'm learning to compose music, and create pixel art in my spare time😀.  
 
 You can check out some of the things I've:   
 🎵 composed: [here](https://soundcloud.com/activegamemusic)  
