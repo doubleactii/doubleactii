@@ -9,7 +9,7 @@ I'm learning to compose music, and create pixel art in my spare time😀.
 You can check out some of the things I've:   
 🎵 composed: [here](https://soundcloud.com/activegamemusic)  
 ~~🎨 drawn: [coming soon 🚧🚧]()~~  
-💻 developed: [here](https://www.vylocity.com/user/Activist/creations)
+<!--💻 developed: [here](https://www.vylocity.com/user/Activist/creations)-->
 
 ## Social  
 #### See the latest thing(s) I'm working on 👀
