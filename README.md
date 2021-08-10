@@ -1,6 +1,6 @@
 ## About me
 ### Hi there 👋🏽 I'm Jared,
-I'm a solo game developer that goes by the name **Active || Activist || Actii**⚡.  
+I'm a solo game developer that goes by the name(s) **Active || Activist || Actii**⚡.  
 I enjoy creating games and creating libraries/modules that will help others create games.  
 I develop in the 2D Game engine [Vylocity](https://www.vylocity.com/).  
 
