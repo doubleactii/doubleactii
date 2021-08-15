@@ -7,7 +7,7 @@ I develop in the 2D Game engine [Vylocity](https://www.vylocity.com/).
 As well as being a programmer I'm learning to compose music, and create pixel art in my spare time😀.  
 
 You can check out some of the things I've:   
-🎵 composed: [here](https://soundcloud.com/activegamemusic)  
+🎵 composed: [here](https://soundcloud.com/actii-codes)  
 ~~🎨 drawn: [coming soon 🚧🚧]()~~  
 <!--💻 developed: [here](https://www.vylocity.com/user/Activist/creations)-->
 
