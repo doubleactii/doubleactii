@@ -13,8 +13,8 @@ You can check out some of the things I've:
 
 ## Social  
 #### See the latest thing(s) I'm working on 👀
-*twitter*: [@doubleactii](https://twitter.com/doubleactii),[@tracedgames](https://twitter.com/TracedGames)  
-*instagram*: [@tracedgames](https://www.instagram.com/tracedgames/)  
+*twitter*: [@doubleactii](https://twitter.com/doubleactii),[@ahousestudio](https://twitter.com/aHouseStudio)  
+*instagram*: [@ahousestudio](https://www.instagram.com/ahousestudio/)  
 *twitch*: [@activecoder](https://www.twitch.tv/activecoder)  
 *youtube*: [@activecoder](https://www.youtube.com/channel/UCyeqbkFUYW3inq_lLdmlYjQ)  
 *(I promise to use these more)*
