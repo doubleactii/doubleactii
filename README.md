@@ -3,6 +3,7 @@
 I'm a solo game developer that goes by the name(s) **Active || Activist || Actii || aCoder**⚡.  
 I enjoy creating games and creating libraries/modules that will help others create games.  
 I develop in the 2D Game engine [Vylocity](https://www.vylocity.com/).  
+I'm currently building my own game development studio named **aHouseStudio**
 
 As well as being a programmer I'm learning to compose music, and create pixel art in my spare time😀.  
 
