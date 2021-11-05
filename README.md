@@ -20,6 +20,7 @@ You can check out some of the things I've:
 *youtube*: [@activecoder](https://www.youtube.com/channel/UCyeqbkFUYW3inq_lLdmlYjQ)  
 *(I promise to use these more)*
 
+[![Actii GitHub stats](https://github-readme-stats.vercel.app/api?username=actii-codes&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Actii-codes/Actii-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
